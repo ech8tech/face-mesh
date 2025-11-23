@@ -1,11 +1,13 @@
-# Create Virtual Enviroment
+# Start project
+
+### Create Virtual Enviroment
 python -m venv venv
 
-# Active enviroment
+### Active enviroment
 source venv/bin/activate
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-# Start script
+### Start script
 python main.py
